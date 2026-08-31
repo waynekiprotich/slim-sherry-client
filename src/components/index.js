@@ -1,0 +1,13 @@
+export { default as CategoryFilter } from './CategoryFilter';
+export { default as Contact } from './Contact';
+export { default as FilterPanel } from './FilterPanel';
+export { default as Footer } from './Footer';
+export { default as Hero } from './Hero';
+export { default as InstagramSection } from './InstagramSection';
+export { default as Navbar } from './Navbar';
+export { default as ProductCard } from './ProductCard';
+export { default as ProductGallery } from './ProductGallery';
+export { default as ProductGrid } from './ProductGrid';
+export { default as SEOHead } from './SEOHead';
+export { default as ValueProps } from './ValueProps';
+export { default as WhatsAppButton } from './WhatsAppButton';
